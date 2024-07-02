@@ -3,7 +3,7 @@
 
 <p align="left"> <img style="margin:.8rem" src="https://komarev.com/ghpvc/?username=adityakurapati&label=Profile%20views&color=0e75b6&style=flat" alt="adityakurapati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakurapati" alt="adityakurapati" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin:.8rem" src="https://github-profile-trophy.vercel.app/?username=adityakurapati" alt="adityakurapati" /></a> </p>
 
 - 🔭 I’m currently working on **Custom Voice Controlled OS**
 
